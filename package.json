@@ -2,7 +2,7 @@
     "name": "common-media-queries",
     "displayName": "Common Media Queries",
     "description": "A way easy to write common media queries",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "icon": "images/logo.png",
     "publisher": "diogomachado",
     "engines": {
