@@ -16,6 +16,10 @@
             {
                 "language": "css",
                 "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "scss",
+                "path": "./snippets/snippets.code-snippets"
             }
         ]
     },
