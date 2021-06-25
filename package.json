@@ -18,5 +18,9 @@
                 "path": "./snippets/snippets.code-snippets"
             }
         ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/diogomachado/common-media-queries"
     }
 }

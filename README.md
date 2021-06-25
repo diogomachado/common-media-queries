@@ -9,4 +9,4 @@ Just type:
 @
 ```
 
-\!\[Snippet in action\]\(images/run.gif\)
+![Snippet in action](https://raw.githubusercontent.com/diogomachado/common-media-queries/main/images/run.gif)
