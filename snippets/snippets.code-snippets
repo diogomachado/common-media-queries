@@ -1,42 +1,50 @@
 {
-	"Small devices (landscape phones, 576px and up)": {
-		"scope": "css,scss",
-		"prefix": "@",
-		"body": [
-			"@media (min-width: 576px) {}"
-		],
-		"description": "Small devices (landscape phones, 576px and up)"
-	},
-    "Medium devices (tablets, 768px and up)": {
-		"scope": "css,scss",
-		"prefix": "@",
-		"body": [
-			"@media (min-width: 768px) {}"
-		],
-		"description": "Medium devices (tablets, 768px and up)"
-	},
-    "Large devices (desktops, 992px and up)": {
-		"scope": "css,scss",
-		"prefix": "@",
-		"body": [
-			"@media (min-width: 992px) {}"
-		],
-		"description": "Large devices (desktops, 992px and up)"
-	},
-    "X-Large devices (large desktops, 1200px and up)": {
-		"scope": "css,scss",
-		"prefix": "@",
-		"body": [
-			"@media (min-width: 1200px) {}"
-		],
-		"description": "X-Large devices (large desktops, 1200px and up)"
-	},
-    "XX-Large devices (larger desktops, 1400px and up)": {
-		"scope": "css,scss",
-		"prefix": "@",
-		"body": [
-			"@media (min-width: 1400px) {}"
-		],
-		"description": "XX-Large devices (larger desktops, 1400px and up)"
-	}
+  "Small devices (landscape phones, 414px and up)": {
+    "scope": "css,scss",
+    "prefix": "@",
+    "body": ["@media (min-width: 414px) {}"],
+    "description": "Small devices (landscape phones, 414px and up)"
+  },
+  "Small devices (landscape phones, 576px and up)": {
+    "scope": "css,scss",
+    "prefix": "@",
+    "body": ["@media (min-width: 576px) {}"],
+    "description": "Small devices (landscape phones, 576px and up)"
+  },
+  "Medium devices (tablets, 768px and up)": {
+    "scope": "css,scss",
+    "prefix": "@",
+    "body": ["@media (min-width: 768px) {}"],
+    "description": "Medium devices (tablets, 768px and up)"
+  },
+  "Large devices (desktops, 992px and up)": {
+    "scope": "css,scss",
+    "prefix": "@",
+    "body": ["@media (min-width: 992px) {}"],
+    "description": "Large devices (desktops, 992px and up)"
+  },
+  "Large devices (large desktops, 1280px and up)": {
+    "scope": "css,scss",
+    "prefix": "@",
+    "body": ["@media (min-width: 1280px) {}"],
+    "description": "X-Large devices (large desktops, 1280px and up)"
+  },
+  "Large devices (larger desktops, 1366px and up)": {
+    "scope": "css,scss",
+    "prefix": "@",
+    "body": ["@media (min-width: 1366px) {}"],
+    "description": "XX-Large devices (larger desktops, 1366px and up)"
+  },
+  "Large devices (larger desktops, 1536px and up)": {
+    "scope": "css,scss",
+    "prefix": "@",
+    "body": ["@media (min-width: 1536px) {}"],
+    "description": "XX-Large devices (larger desktops, 1536px and up)"
+  },
+  "Large devices (larger desktops, 1920px and up)": {
+    "scope": "css,scss",
+    "prefix": "@",
+    "body": ["@media (min-width: 1920px) {}"],
+    "description": "XX-Large devices (larger desktops, 1920px and up)"
+  }
 }
